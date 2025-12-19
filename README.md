@@ -73,6 +73,7 @@ endmodule
 ```
 **RTL LOGIC UP COUNTER**
 ![WhatsApp Image 2025-12-19 at 20 28 27_b31cfbf7](https://github.com/user-attachments/assets/caaa0b93-3ea8-4a53-b7a8-d1ad6a378ddd)
+<img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/7fc236e7-7827-4c42-a514-2b70b00de80b" />
 
 **TRUTH TABLE**
 ![WhatsApp Image 2025-12-19 at 20 28 28_3c91f185](https://github.com/user-attachments/assets/f9d8e018-5e7e-450a-9550-fc22d7a86fa9)
@@ -80,6 +81,8 @@ endmodule
 
 **TIMING DIAGRAM FOR IP COUNTER**
 ![WhatsApp Image 2025-12-19 at 20 28 27_7a10be5d](https://github.com/user-attachments/assets/8b6d5898-81f0-4b3d-91d2-950ed1d243b7)
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/ba4c7733-bb21-422a-ba24-3b51b0ee1683" />
+<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/a2698dae-25ab-4f46-8c8e-9fcc41a8e80d" />
 
 
 
