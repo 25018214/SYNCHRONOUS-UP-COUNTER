@@ -45,7 +45,7 @@ Developed by:AKASH A
 RegisterNumber:25018214
 */
 ```
-module ex11(out,clk,rst);
+module up(out,clk,rst);
 input clk,rst;
 output reg [3:0]out;
 always @ (posedge clk)
@@ -56,6 +56,20 @@ begin
      out <= out+1;
 end
 endmodule
+
+DOWN COUNTER
+module Down(out,clk,rst);
+input clk,rst;
+output reg [3:0]out;
+always @ (posedge clk)
+begin
+   if(rst)
+     out<=0;
+   else 
+     out <= out-1;
+end
+endmodule
+
 ```
 **RTL LOGIC UP COUNTER**
 ![WhatsApp Image 2025-12-19 at 20 28 27_b31cfbf7](https://github.com/user-attachments/assets/caaa0b93-3ea8-4a53-b7a8-d1ad6a378ddd)
