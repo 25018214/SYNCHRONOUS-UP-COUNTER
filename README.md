@@ -80,7 +80,7 @@ endmodule
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![WhatsApp Image 2025-12-19 at 20 28 27_7a10be5d](https://github.com/user-attachments/assets/8b6d5898-81f0-4b3d-91d2-950ed1d243b7)
+
 <img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/ba4c7733-bb21-422a-ba24-3b51b0ee1683" />
 <img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/a2698dae-25ab-4f46-8c8e-9fcc41a8e80d" />
 
